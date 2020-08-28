@@ -1,0 +1,10 @@
+(module Metric_Partial (layer F.Cu) (tedit 5EE4722D)
+  (fp_text reference R (at 7.62 -3.81) (layer F.SilkS) hide
+    (effects (font (size 2 2) (thickness 0.3)))
+  )
+  (fp_text value Metric_Partial (at 0 1.27) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy -0.1016 0) (xy 0.1016 0) (xy 0.1016 -1.27) (xy -0.1016 -1.27)) (layer F.Mask) (width 0))
+  (fp_poly (pts (xy 0.8984 0) (xy 1.1016 0) (xy 1.1016 -1.27) (xy 0.8984 -1.27)) (layer F.Mask) (width 0))
+)
