@@ -1,4 +1,5 @@
 # PCB Ruler
+![Front](https://github.com/mprosk/ruler/blob/master/front.png)
 - 6" long by 1.25" wide
 - 2x Metric rule (centimeters with millimeter divisions)
 - 2x Imperial rule (0.1" divisions and traditional)
@@ -12,3 +13,6 @@
 - Temperature conversions
 - C data types
 - SI Prefix guide 
+
+# To Do
+- PNGs and PDFs are out of date
