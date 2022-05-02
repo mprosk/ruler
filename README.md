@@ -1,7 +1,7 @@
 # PCB Ruler
-![Front](https://github.com/mprosk/ruler/blob/master/front.png)
+![Front](https://github.com/mprosk/ruler/blob/master/img/front.png)
 
-![Back](https://github.com/mprosk/ruler/blob/master/back.png)
+![Back](https://github.com/mprosk/ruler/blob/master/img/back.png)
 
 - 6" long by 1.25" wide
 - 2x Metric rule (centimeters with millimeter divisions)
@@ -17,5 +17,3 @@
 - C data types
 - SI Prefix guide
 
-# To Do
-- 
